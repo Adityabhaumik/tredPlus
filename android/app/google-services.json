@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287401211166",
+    "project_id": "treadplus-12590",
+    "storage_bucket": "treadplus-12590.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287401211166:android:bd021fc113cce829e4450f",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNx-6UFU-rGZL1l_d8roomE0PEm4La4Qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
