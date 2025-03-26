@@ -1,17 +1,15 @@
-# example
+# Setup
+# clone -> pub get -> dart run build_runner watch -d -> run
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## MVVM Architecture with Riverpod and Get It
 
-A few resources to get you started if this is your first Flutter project:
+This project demonstrates the use of the MVVM (Model-View-ViewModel) architecture pattern, combined with Riverpod for state management and Get It as a service locator.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## About the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tredPlus
+The app provides two primary modes of operation:
+
+1. **Share Location**: Users can share their current location with others.
+2. **Follow Someone**: Users can follow the location of another user in real-time.
